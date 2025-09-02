@@ -1,0 +1,13 @@
+Station_Name,Transport_Type,Street_Address,Suburb,Postcode,LGA,Latitude,Longitude,Operator,Services,Accessibility_Features,Parking_Available,Last_Updated
+Hurstville Station,Train Station,Forest Road,Hurstville,2220,Georges River,-33.9667,151.1028,Sydney Trains,T4 Eastern Suburbs & Illawarra Line,Lift Access|Tactile Indicators|Hearing Loop,Yes,2023-12-01
+Kogarah Station,Train Station,Railway Parade,Kogarah,2217,Georges River,-33.9645,151.1334,Sydney Trains,T4 Eastern Suburbs & Illawarra Line,Lift Access|Tactile Indicators|Hearing Loop,Yes,2023-12-01
+Allawah Station,Train Station,Railway Parade,Allawah,2218,Georges River,-33.9634,151.1134,Sydney Trains,T4 Eastern Suburbs & Illawarra Line,Ramp Access|Tactile Indicators,Limited,2023-12-01
+Carlton Station,Train Station,Railway Parade,Carlton,2218,Georges River,-33.9723,151.1089,Sydney Trains,T4 Eastern Suburbs & Illawarra Line,Ramp Access|Tactile Indicators,Limited,2023-12-01
+Oatley Station,Train Station,Frederick Street,Oatley,2223,Georges River,-33.9789,151.0756,Sydney Trains,T4 Eastern Suburbs & Illawarra Line,Ramp Access|Tactile Indicators,Yes,2023-12-01
+Mortdale Station,Train Station,Pitt Street,Mortdale,2223,Georges River,-33.9701,151.0723,Sydney Trains,T4 Eastern Suburbs & Illawarra Line,Ramp Access|Tactile Indicators,Limited,2023-12-01
+Penshurst Station,Train Station,Penshurst Street,Penshurst,2222,Georges River,-33.9642,151.0892,Sydney Trains,T4 Eastern Suburbs & Illawarra Line,Ramp Access|Tactile Indicators,Yes,2023-12-01
+Lugarno Station,Train Station,Lime Kiln Road,Lugarno,2210,Georges River,-33.9845,151.0456,Sydney Trains,T4 Eastern Suburbs & Illawarra Line,Ramp Access|Tactile Indicators,Limited,2023-12-01
+Hurstville Bus Interchange,Bus Interchange,Forest Road,Hurstville,2220,Georges River,-33.9658,151.1038,Transdev NSW,Multiple Routes,Wheelchair Accessible|Shelter|Real-time Info,No,2023-12-01
+Kogarah Bus Stop,Bus Stop,Railway Parade,Kogarah,2217,Georges River,-33.9635,151.1324,Transdev NSW,Route 478|Route 479|Route 480,Shelter|Real-time Info,No,2023-12-01
+Central Station,Train Station,Eddy Avenue,Sydney,2000,City of Sydney,-33.8839,151.2067,Sydney Trains,All Lines|Metro|Light Rail,Full Accessibility|Lifts|Tactile|Audio,Limited,2023-12-01
+Town Hall Station,Train Station,George Street,Sydney,2000,City of Sydney,-33.8734,151.2067,Sydney Trains,T2|T3|T8 Lines,Full Accessibility|Lifts|Tactile|Audio,No,2023-12-01

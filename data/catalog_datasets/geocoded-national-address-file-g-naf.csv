@@ -1,0 +1,2 @@
+Category,Dataset Name,Data Custodian/Source,Description,Geographic Granularity,Direct Strategic Use Case for a Sydney Library,Direct Link
+Geospatial & Boundary Data,Geocoded National Address File (G‑NAF),Geoscape Australia (via data.gov.au),Authoritative national geocoded address points.,Address point,Geocode member addresses (aggregated) to map service reach and gaps.,https://data.gov.au/dataset/geocoded-national-address-file-g-naf

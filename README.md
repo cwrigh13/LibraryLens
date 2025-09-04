@@ -1,0 +1,30 @@
+# LibraryLens
+
+A resource hub for Sydney public library strategic planning.
+
+## Data Inventory
+
+Below is an index of downloaded files discovered via the ingestion scripts. The table is generated from `data/inventory.csv`.
+
+- Inventory CSV: `data/inventory.csv`
+
+### Files
+- GTFS Realtime (where available) — [data/raw/opendata.transport.nsw.gov.au/gtfs-realtime-where-available/gtfs-realtime-where-available-1.pdf](data/raw/opendata.transport.nsw.gov.au/gtfs-realtime-where-available/gtfs-realtime-where-available-1.pdf)
+- GTFS Realtime (where available) — [data/raw/opendata.transport.nsw.gov.au/gtfs-realtime-where-available/gtfs-realtime-where-available-2.pdf](data/raw/opendata.transport.nsw.gov.au/gtfs-realtime-where-available/gtfs-realtime-where-available-2.pdf)
+- GTFS Realtime (where available) — [data/raw/opendata.transport.nsw.gov.au/gtfs-realtime-where-available/gtfs-realtime-where-available-3.pdf](data/raw/opendata.transport.nsw.gov.au/gtfs-realtime-where-available/gtfs-realtime-where-available-3.pdf)
+- Household Income & Wealth (survey) + Census income proxies — [data/raw/www.abs.gov.au/household-income-wealth-survey-census-income-proxies/household-income-wealth-survey-census-income-proxies-1.zip](data/raw/www.abs.gov.au/household-income-wealth-survey-census-income-proxies/household-income-wealth-survey-census-income-proxies-1.zip)
+- Household Income & Wealth (survey) + Census income proxies — [data/raw/www.abs.gov.au/household-income-wealth-survey-census-income-proxies/household-income-wealth-survey-census-income-proxies-2.xlsx](data/raw/www.abs.gov.au/household-income-wealth-survey-census-income-proxies/household-income-wealth-survey-census-income-proxies-2.xlsx)
+- Household Income & Wealth (survey) + Census income proxies — [data/raw/www.abs.gov.au/household-income-wealth-survey-census-income-proxies/household-income-wealth-survey-census-income-proxies-3.xlsx](data/raw/www.abs.gov.au/household-income-wealth-survey-census-income-proxies/household-income-wealth-survey-census-income-proxies-3.xlsx)
+- Household Income & Wealth (survey) + Census income proxies — [data/raw/www.abs.gov.au/household-income-wealth-survey-census-income-proxies/household-income-wealth-survey-census-income-proxies-4.xlsx](data/raw/www.abs.gov.au/household-income-wealth-survey-census-income-proxies/household-income-wealth-survey-census-income-proxies-4.xlsx)
+- Household Income & Wealth (survey) + Census income proxies — [data/raw/www.abs.gov.au/household-income-wealth-survey-census-income-proxies/household-income-wealth-survey-census-income-proxies-5.xlsx](data/raw/www.abs.gov.au/household-income-wealth-survey-census-income-proxies/household-income-wealth-survey-census-income-proxies-5.xlsx)
+- Opal Tap On/Off (Aggregated Patronage) — [data/raw/opendata.transport.nsw.gov.au/opal-tap-on-off-aggregated-patronage/opal-tap-on-off-aggregated-patronage-2.pdf](data/raw/opendata.transport.nsw.gov.au/opal-tap-on-off-aggregated-patronage/opal-tap-on-off-aggregated-patronage-2.pdf)
+- Opal Tap On/Off (Aggregated Patronage) — [data/raw/opendata.transport.nsw.gov.au/opal-tap-on-off-aggregated-patronage/opal-tap-on-off-aggregated-patronage-3.pdf](data/raw/opendata.transport.nsw.gov.au/opal-tap-on-off-aggregated-patronage/opal-tap-on-off-aggregated-patronage-3.pdf)
+- Opal Tap On/Off (Aggregated Patronage) — [data/raw/opendata.transport.nsw.gov.au/opal-tap-on-off-aggregated-patronage/opal-tap-on-off-aggregated-patronage-4.pdf](data/raw/opendata.transport.nsw.gov.au/opal-tap-on-off-aggregated-patronage/opal-tap-on-off-aggregated-patronage-4.pdf)
+- Public Transport Stops and Routes (GIS layers) — [data/raw/opendata.transport.nsw.gov.au/public-transport-stops-and-routes-gis-layers/public-transport-stops-and-routes-gis-layers-1.pdf](data/raw/opendata.transport.nsw.gov.au/public-transport-stops-and-routes-gis-layers/public-transport-stops-and-routes-gis-layers-1.pdf)
+- Public Transport Stops and Routes (GIS layers) — [data/raw/opendata.transport.nsw.gov.au/public-transport-stops-and-routes-gis-layers/public-transport-stops-and-routes-gis-layers-2.pdf](data/raw/opendata.transport.nsw.gov.au/public-transport-stops-and-routes-gis-layers/public-transport-stops-and-routes-gis-layers-2.pdf)
+- Public Transport Stops and Routes (GIS layers) — [data/raw/opendata.transport.nsw.gov.au/public-transport-stops-and-routes-gis-layers/public-transport-stops-and-routes-gis-layers-3.pdf](data/raw/opendata.transport.nsw.gov.au/public-transport-stops-and-routes-gis-layers/public-transport-stops-and-routes-gis-layers-3.pdf)
+- Regional Population (ERP) – Regional population — [data/raw/www.abs.gov.au/regional-population-erp-regional-population/regional-population-erp-regional-population-1.zip](data/raw/www.abs.gov.au/regional-population-erp-regional-population/regional-population-erp-regional-population-1.zip)
+- Regional Population (ERP) – Regional population — [data/raw/www.abs.gov.au/regional-population-erp-regional-population/regional-population-erp-regional-population-2.xlsx](data/raw/www.abs.gov.au/regional-population-erp-regional-population/regional-population-erp-regional-population-2.xlsx)
+- Regional Population (ERP) – Regional population — [data/raw/www.abs.gov.au/regional-population-erp-regional-population/regional-population-erp-regional-population-3.xlsx](data/raw/www.abs.gov.au/regional-population-erp-regional-population/regional-population-erp-regional-population-3.xlsx)
+- Regional Population (ERP) – Regional population — [data/raw/www.abs.gov.au/regional-population-erp-regional-population/regional-population-erp-regional-population-4.xlsx](data/raw/www.abs.gov.au/regional-population-erp-regional-population/regional-population-erp-regional-population-4.xlsx)
+- Regional Population (ERP) – Regional population — [data/raw/www.abs.gov.au/regional-population-erp-regional-population/regional-population-erp-regional-population-5.xlsx](data/raw/www.abs.gov.au/regional-population-erp-regional-population/regional-population-erp-regional-population-5.xlsx)

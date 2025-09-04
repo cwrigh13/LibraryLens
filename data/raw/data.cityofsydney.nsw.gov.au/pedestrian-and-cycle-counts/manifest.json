@@ -1,0 +1,9 @@
+{
+  "dataset_name": "Pedestrian and Cycle Counts",
+  "source_url": "https://data.cityofsydney.nsw.gov.au/datasets/pedestrian-and-cycle-counts",
+  "domain": "data.cityofsydney.nsw.gov.au",
+  "saved_files": [],
+  "notes": [
+    "error: fetch page failed: HTTP Error 404: Not Found"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "dataset_name": "NSW Administrative Boundaries",
+  "source_url": "https://data.nsw.gov.au/data/dataset/nsw-administrative-boundaries",
+  "domain": "data.nsw.gov.au",
+  "saved_files": [],
+  "notes": [
+    "https://datasets.seed.nsw.gov.au/dataset/bb020282-59e4-4db5-98c9-9dc23cf0b4f5/resource/4a80d6e9-03dc-4141-bb3a-bf678288f7da/download/nsw_adminboundariesdqs.pdf: error: HTTP Error 403: Forbidden"
+  ]
+}

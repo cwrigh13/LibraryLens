@@ -1,0 +1,9 @@
+{
+  "dataset_name": "Taxation Statistics (Individuals) by Postcode",
+  "source_url": "https://www.ato.gov.au/About-ATO/Research-and-statistics/In-detail/Taxation-statistics/",
+  "domain": "www.ato.gov.au",
+  "saved_files": [],
+  "notes": [
+    "error: fetch page failed: HTTP Error 403: Forbidden"
+  ]
+}

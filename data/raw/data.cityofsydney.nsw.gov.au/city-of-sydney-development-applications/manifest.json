@@ -1,0 +1,9 @@
+{
+  "dataset_name": "City of Sydney Development Applications",
+  "source_url": "https://data.cityofsydney.nsw.gov.au/datasets/development-applications",
+  "domain": "data.cityofsydney.nsw.gov.au",
+  "saved_files": [],
+  "notes": [
+    "error: fetch page failed: HTTP Error 404: Not Found"
+  ]
+}

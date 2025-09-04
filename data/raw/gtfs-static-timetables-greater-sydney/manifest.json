@@ -1,0 +1,9 @@
+{
+  "dataset_name": "GTFS Static Timetables (Greater Sydney)",
+  "source_url": "Route; Stop (point/line)",
+  "domain": "",
+  "saved_files": [],
+  "notes": [
+    "error: fetch page failed: unknown url type: 'Route; Stop (point/line)'"
+  ]
+}

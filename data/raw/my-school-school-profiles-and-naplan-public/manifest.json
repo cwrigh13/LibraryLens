@@ -1,0 +1,9 @@
+{
+  "dataset_name": "My School \u2013 School Profiles and NAPLAN (public)",
+  "source_url": "School",
+  "domain": "",
+  "saved_files": [],
+  "notes": [
+    "error: fetch page failed: unknown url type: 'School'"
+  ]
+}

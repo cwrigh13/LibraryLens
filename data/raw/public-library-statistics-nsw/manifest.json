@@ -1,0 +1,9 @@
+{
+  "dataset_name": "Public Library Statistics (NSW)",
+  "source_url": " programs",
+  "domain": "",
+  "saved_files": [],
+  "notes": [
+    "error: fetch page failed: unknown url type: 'programs'"
+  ]
+}

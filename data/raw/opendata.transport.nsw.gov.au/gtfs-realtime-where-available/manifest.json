@@ -1,0 +1,15 @@
+{
+  "dataset_name": "GTFS Realtime (where available)",
+  "source_url": "https://opendata.transport.nsw.gov.au/",
+  "domain": "opendata.transport.nsw.gov.au",
+  "saved_files": [
+    "gtfs-realtime-where-available-1.pdf",
+    "gtfs-realtime-where-available-2.pdf",
+    "gtfs-realtime-where-available-3.pdf"
+  ],
+  "notes": [
+    "https://opendata.transport.nsw.gov.au/sites/default/files/2024-09/TfNSW-Open-Data-Portal-Terms.pdf: ok",
+    "https://opendata.transport.nsw.gov.au/sites/default/files/2024-09/TfNSW-Privacy.pdf: ok",
+    "https://opendata.transport.nsw.gov.au/sites/default/files/2024-09/TfNSW-Acceptable-Use-Policy.pdf: ok"
+  ]
+}

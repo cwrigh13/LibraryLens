@@ -1,0 +1,15 @@
+{
+  "dataset_name": "Regional Population (ERP) \u2013 Regional population",
+  "source_url": "https://www.abs.gov.au/statistics/people/population/regional-population/latest-release",
+  "domain": "www.abs.gov.au",
+  "saved_files": [
+    "regional-population-erp-regional-population-1.zip",
+    "regional-population-erp-regional-population-2.xlsx",
+    "regional-population-erp-regional-population-3.xlsx"
+  ],
+  "notes": [
+    "https://www.abs.gov.au/statistics/people/population/regional-population/2023-24/Data-cubes-all.zip: ok",
+    "https://www.abs.gov.au/statistics/people/population/regional-population/2023-24/32180DS0001_2023-24.xlsx: ok",
+    "https://www.abs.gov.au/statistics/people/population/regional-population/2023-24/32180DS0002_2023-24.xlsx: ok"
+  ]
+}

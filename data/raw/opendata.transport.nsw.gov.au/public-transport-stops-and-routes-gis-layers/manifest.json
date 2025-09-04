@@ -1,0 +1,15 @@
+{
+  "dataset_name": "Public Transport Stops and Routes (GIS layers)",
+  "source_url": "https://opendata.transport.nsw.gov.au/",
+  "domain": "opendata.transport.nsw.gov.au",
+  "saved_files": [
+    "public-transport-stops-and-routes-gis-layers-1.pdf",
+    "public-transport-stops-and-routes-gis-layers-2.pdf",
+    "public-transport-stops-and-routes-gis-layers-3.pdf"
+  ],
+  "notes": [
+    "https://opendata.transport.nsw.gov.au/sites/default/files/2024-09/TfNSW-Open-Data-Portal-Terms.pdf: ok",
+    "https://opendata.transport.nsw.gov.au/sites/default/files/2024-09/TfNSW-Privacy.pdf: ok",
+    "https://opendata.transport.nsw.gov.au/sites/default/files/2024-09/TfNSW-Acceptable-Use-Policy.pdf: ok"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "dataset_name": "HealthStats NSW",
+  "source_url": "LGA; LHD; SA3 (varies)",
+  "domain": "",
+  "saved_files": [],
+  "notes": [
+    "error: fetch page failed: unknown url type: 'LGA; LHD; SA3 (varies)'"
+  ]
+}

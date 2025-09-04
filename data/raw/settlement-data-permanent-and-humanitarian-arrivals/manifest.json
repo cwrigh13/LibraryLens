@@ -1,0 +1,9 @@
+{
+  "dataset_name": "Settlement Data (Permanent and Humanitarian Arrivals)",
+  "source_url": " arrival year).",
+  "domain": "",
+  "saved_files": [],
+  "notes": [
+    "error: fetch page failed: unknown url type: 'arrival year).'"
+  ]
+}

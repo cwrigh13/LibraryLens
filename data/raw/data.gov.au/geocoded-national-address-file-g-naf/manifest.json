@@ -1,0 +1,9 @@
+{
+  "dataset_name": "Geocoded National Address File (G\u2011NAF)",
+  "source_url": "https://data.gov.au/dataset/geocoded-national-address-file-g-naf",
+  "domain": "data.gov.au",
+  "saved_files": [],
+  "notes": [
+    "error: fetch page failed: HTTP Error 404: Not Found"
+  ]
+}

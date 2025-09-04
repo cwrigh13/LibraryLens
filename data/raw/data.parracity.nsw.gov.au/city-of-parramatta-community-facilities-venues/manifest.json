@@ -1,0 +1,9 @@
+{
+  "dataset_name": "City of Parramatta Community Facilities & Venues",
+  "source_url": "https://data.parracity.nsw.gov.au/",
+  "domain": "data.parracity.nsw.gov.au",
+  "saved_files": [],
+  "notes": [
+    "error: fetch page failed: <urlopen error [Errno -2] Name or service not known>"
+  ]
+}

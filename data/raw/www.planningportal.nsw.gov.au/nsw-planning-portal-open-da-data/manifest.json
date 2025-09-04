@@ -1,0 +1,9 @@
+{
+  "dataset_name": "NSW Planning Portal \u2013 Open DA Data",
+  "source_url": "https://www.planningportal.nsw.gov.au/opendata",
+  "domain": "www.planningportal.nsw.gov.au",
+  "saved_files": [],
+  "notes": [
+    "error: fetch page failed: HTTP Error 403: Forbidden"
+  ]
+}

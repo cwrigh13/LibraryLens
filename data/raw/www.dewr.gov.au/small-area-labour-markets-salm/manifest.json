@@ -1,0 +1,9 @@
+{
+  "dataset_name": "Small Area Labour Markets (SALM)",
+  "source_url": "https://www.dewr.gov.au/small-area-labour-markets",
+  "domain": "www.dewr.gov.au",
+  "saved_files": [],
+  "notes": [
+    "error: fetch page failed: The read operation timed out"
+  ]
+}

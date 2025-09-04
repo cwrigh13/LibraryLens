@@ -1,0 +1,9 @@
+{
+  "dataset_name": "Housing Tenure and Costs (Census)",
+  "source_url": "SA1 to LGA",
+  "domain": "",
+  "saved_files": [],
+  "notes": [
+    "error: fetch page failed: unknown url type: 'SA1 to LGA'"
+  ]
+}

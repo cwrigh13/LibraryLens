@@ -1,0 +1,9 @@
+{
+  "dataset_name": "PHIDU Social Health Atlases",
+  "source_url": "LGA; SA3",
+  "domain": "",
+  "saved_files": [],
+  "notes": [
+    "error: fetch page failed: unknown url type: 'LGA; SA3'"
+  ]
+}

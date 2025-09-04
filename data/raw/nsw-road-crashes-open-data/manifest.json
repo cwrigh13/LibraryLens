@@ -1,0 +1,9 @@
+{
+  "dataset_name": "NSW Road Crashes (Open Data)",
+  "source_url": "Improve access/wayfinding and safe routes to branches based on crash hotspots.",
+  "domain": "",
+  "saved_files": [],
+  "notes": [
+    "error: fetch page failed: unknown url type: 'Improve access/wayfinding and safe routes to branches based on crash hotspots.'"
+  ]
+}

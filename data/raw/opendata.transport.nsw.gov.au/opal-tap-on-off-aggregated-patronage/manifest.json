@@ -4,11 +4,13 @@
   "domain": "opendata.transport.nsw.gov.au",
   "saved_files": [
     "opal-tap-on-off-aggregated-patronage-2.pdf",
-    "opal-tap-on-off-aggregated-patronage-3.pdf"
+    "opal-tap-on-off-aggregated-patronage-3.pdf",
+    "opal-tap-on-off-aggregated-patronage-4.pdf"
   ],
   "notes": [
     "https://opendata.transport.nsw.gov.au/sites/default/files/Opal%20Data%20Terms%20and%20Conditions%20v1.pdf: error: HTTP Error 404: Not Found",
     "https://opendata.transport.nsw.gov.au/sites/default/files/2024-09/TfNSW-Open-Data-Portal-Terms.pdf: ok",
-    "https://opendata.transport.nsw.gov.au/sites/default/files/2024-09/TfNSW-Privacy.pdf: ok"
+    "https://opendata.transport.nsw.gov.au/sites/default/files/2024-09/TfNSW-Privacy.pdf: ok",
+    "https://opendata.transport.nsw.gov.au/sites/default/files/2024-09/TfNSW-Acceptable-Use-Policy.pdf: ok"
   ]
 }

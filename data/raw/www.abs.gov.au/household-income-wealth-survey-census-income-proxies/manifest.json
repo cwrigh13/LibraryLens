@@ -5,11 +5,15 @@
   "saved_files": [
     "household-income-wealth-survey-census-income-proxies-1.zip",
     "household-income-wealth-survey-census-income-proxies-2.xlsx",
-    "household-income-wealth-survey-census-income-proxies-3.xlsx"
+    "household-income-wealth-survey-census-income-proxies-3.xlsx",
+    "household-income-wealth-survey-census-income-proxies-4.xlsx",
+    "household-income-wealth-survey-census-income-proxies-5.xlsx"
   ],
   "notes": [
     "https://www.abs.gov.au/statistics/economy/finance/household-income-and-wealth-australia/2019-20/Download-all.zip: ok",
     "https://www.abs.gov.au/statistics/economy/finance/household-income-and-wealth-australia/2019-20/1.%20Household%20income%20and%20income%20distribution%2C%20Australia.xlsx: ok",
-    "https://www.abs.gov.au/statistics/economy/finance/household-income-and-wealth-australia/2019-20/2.%20Household%20wealth%20and%20wealth%20distribution.xlsx: ok"
+    "https://www.abs.gov.au/statistics/economy/finance/household-income-and-wealth-australia/2019-20/2.%20Household%20wealth%20and%20wealth%20distribution.xlsx: ok",
+    "https://www.abs.gov.au/statistics/economy/finance/household-income-and-wealth-australia/2019-20/3.%20Income%2C%20wealth%20and%20debt.xlsx: ok",
+    "https://www.abs.gov.au/statistics/economy/finance/household-income-and-wealth-australia/2019-20/4.%20Selected%20characteristics%20of%20households%20and%20persons.xlsx: ok"
   ]
 }
